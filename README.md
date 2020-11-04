@@ -34,17 +34,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
+Projeto criado na semana Oministack da [Rocketseat](www.rocketseat.com.br).
+
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+- [Layout Web](https://www.figma.com/file/ocHYo4MouuD8gtdZnkkvaG/Proffy-Web)
+- [Layout Mobile](https://www.figma.com/file/8TlQCzGhRn2fAi8CKtKTBI/Proffy-Mobile)
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
